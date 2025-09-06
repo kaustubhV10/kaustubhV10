@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Kaustubh  
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=500&lines=AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+
 🚀 AI & ML Enthusiast | 🧠 Deep Learning Explorer | 💻 Open Source Contributor  
 
 ---
@@ -44,7 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustubhV10&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhV10&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
