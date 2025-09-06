@@ -13,9 +13,9 @@
 ---
 
 ### 🌱 Currently learning
-- Advanced NLP with Transformers  
-- Efficient fine-tuning (LoRA, PEFT)  
-- Cloud deployment of ML models  
+- ⚡ Transformers & efficient fine-tuning (LoRA, PEFT)  
+- ☁️ Advanced NLP with Transformers  
+- 🐍 Advanced Python for ML systems 
 
 ---
 
@@ -33,10 +33,13 @@
 
 ---
 
-### 📫 How to reach me
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/kaustubhvanalkar/))  
-- [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/kaustubhvanalkar))  
-- [Email](kaustubhavanalkar@gmail.com)  
+### 📫 Reach me at
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/kaustubhvanalkar/)  
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)]
+(https://www.kaggle.com/kaustubhvanalkar/)  
+- [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
+  (kaustubhavanalkar@gmail.com)
+
 
 ---
 
