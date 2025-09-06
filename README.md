@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 What I'm working on
-- 📊 Building hybrid ML models (CatBoost + Neural Nets)  
+- 📊 Building hybrid ML models  
 - 🤖 Experimenting with agentic AI frameworks  
 
 ---
